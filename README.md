@@ -1,6 +1,7 @@
 # Wykoparka [PL] [![Discord](https://discordapp.com/api/guilds/367325058353594378/embed.png)]()
 
 Bot created for wykop.pl
+> [Invite bot here](https://discordapp.com/oauth2/authorize?client_id=459391891687997451&permissions=2080&scope=bot)
 
 Help command:
 - wykop pomoc
@@ -27,4 +28,12 @@ Komendy bota:
 
     ![Zaproszenie](https://i.imgur.com/mb7hQml.png)
 
-> [Invite link](https://discordapp.com/oauth2/authorize?client_id=459391891687997451&permissions=2080&scope=bot)
+- wykop github:
+
+    ![Github](https://i.imgur.com/q8cFq5x.png)
+- wykop donate:
+
+    ![Donate](https://i.imgur.com/aZWblE4.png)
+- wykop ping:
+
+    ![Ping](https://i.imgur.com/hhigC2L.png)
