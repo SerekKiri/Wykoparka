@@ -20,7 +20,7 @@ Komendy bota:
 - wykop mirko [Ilość postów] :
  
     ![Mirko](https://i.imgur.com/FNpVrDY.png)
-- wykop zjajdź [Nazwa użytkownika] :
+- wykop znajdź [Nazwa użytkownika] :
     ![Znajdź](https://i.imgur.com/hG4Rvh3.png)
 
 > [Invite link](https://discordapp.com/oauth2/authorize?client_id=459391891687997451&permissions=2080&scope=bot)
