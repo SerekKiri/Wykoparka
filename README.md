@@ -11,7 +11,7 @@ Komendy bota:
 
 - wykop pomoc:
 
-    ![Pomoc](https://i.imgur.com/PM8A1vR.png)
+    ![Pomoc](https://i.imgur.com/6UWfoqX.png)
 - wykop tag [Nazwa tagu] :
 
     ![Tag](https://i.imgur.com/UIq4d1J.png)
@@ -23,7 +23,7 @@ Komendy bota:
     ![Mirko](https://i.imgur.com/FNpVrDY.png)
 - wykop znajdź [Nazwa użytkownika] :
 
-    ![Znajdź](https://i.imgur.com/hG4Rvh3.png)
+    ![Znajdź](https://i.imgur.com/cEh9s6C.png)
 - wykop zaproszenie:
 
     ![Zaproszenie](https://i.imgur.com/mb7hQml.png)
@@ -36,4 +36,4 @@ Komendy bota:
     ![Donate](https://i.imgur.com/aZWblE4.png)
 - wykop ping:
 
-    ![Ping](https://i.imgur.com/hhigC2L.png)
+    ![Ping](https://i.imgur.com/Vos4ALH.png)
