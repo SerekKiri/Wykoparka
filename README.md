@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.wykop.pl/">
-  <img src="https://www.wykop.pl/static/wykoppl/img/dev/logo_wykop_500.png" /> </a>
+  <img src="https://www.wykop.pl/static/wykoppl/img/dev/logo_wykop_500.png" /></a>
 </p>
 </br>
 
