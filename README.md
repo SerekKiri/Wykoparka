@@ -1,5 +1,9 @@
 # Wykoparka [PL] [![Discord](https://discordapp.com/api/guilds/367325058353594378/embed.png)]()
 
+<p align="center">
+  <img src="https://www.wykop.pl/static/wykoppl/img/dev/logo_wykop_500.png" />
+</p>
+
 Bot created for wykop.pl
 > [Invite bot here](https://discordapp.com/oauth2/authorize?client_id=459391891687997451&permissions=2080&scope=bot)
 
