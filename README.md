@@ -1,12 +1,10 @@
 <p align="center">
-  <a href="https://www.wykop.pl/">
-  <img src="https://www.wykop.pl/static/wykoppl/img/dev/logo_wykop_500.png" /></a>
+  <img src="https://cdn.rawgit.com/animek66/Wykoparka/master/wykoparka-icon.svg" height="192">
 </p>
-</br>
+  
+# Wykoparka [![Discord](https://discordapp.com/api/guilds/367325058353594378/embed.png)]()
 
-# Wykoparka [PL] [![Discord](https://discordapp.com/api/guilds/367325058353594378/embed.png)]()
-
-Bot created for wykop.pl
+Bot created for [wykop.pl](https://wykop.pl
 > [Invite bot here](https://discordapp.com/oauth2/authorize?client_id=459391891687997451&permissions=2080&scope=bot)
 
 Help command:
