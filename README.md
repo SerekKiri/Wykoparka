@@ -2,9 +2,9 @@
   <img src="https://cdn.rawgit.com/animek66/Wykoparka/master/wykoparka-icon.svg" height="192">
 </p>
   
-# Wykoparka [![Discord](https://discordapp.com/api/guilds/367325058353594378/embed.png)]()
+# Wykoparka [![Discord](https://discordapp.com/api/guilds/367325058353594378/embed.png)](https://discord.gg/Wn3zEyh)
 
-Bot created for [wykop.pl](https://wykop.pl
+Bot created for [wykop.pl](https://wykop.pl)
 > [Invite bot here](https://discordapp.com/oauth2/authorize?client_id=459391891687997451&permissions=2080&scope=bot)
 
 Help command:
