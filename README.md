@@ -7,6 +7,10 @@
 Bot created for [wykop.pl](https://wykop.pl)
 > [Invite bot here](https://discordapp.com/oauth2/authorize?client_id=459391891687997451&permissions=2080&scope=bot)
 
+#### Dołącz do naszego serwera na discordzie!
+
+[discordapp.com/invite](https://discord.gg/7q5VcC6)
+
 Help command:
 - wykop pomoc
 
