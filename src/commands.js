@@ -10,6 +10,7 @@ const tag = require('./commands/tag')
 const donate = require('./commands/donate')
 const github = require('./commands/github')
 const invite = require('./commands/invite')
+const status = require('./commands/status')
 
 const commands = {
   'help': help,
@@ -19,7 +20,8 @@ const commands = {
   'tag': tag,
   'donate': donate,
   'github': github,
-  'zaproszenie': invite
+  'zaproszenie': invite,
+  'status': status
 }
 
 module.exports.check = async (message) => {
