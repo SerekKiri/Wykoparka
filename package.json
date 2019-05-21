@@ -5,6 +5,7 @@
   "main": "./src/index.js",
   "dependencies": {
     "axios": "^0.18.0",
+    "circular-json": "^0.5.9",
     "debug": "^3.1.0",
     "discord.js": "^11.3.2",
     "turndown": "^4.0.2",
