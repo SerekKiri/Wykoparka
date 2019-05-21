@@ -17,7 +17,8 @@ async function help (message) {
 - wykop zaproszenie (Bot generuje zaproszenie dzięki któremu możesz zaprosić go na swój serwer)
 - wykop znajdź [Nazwa użytkownika] (Bot zwraca informacje o użytkowniku)
 - wykop github (Tutaj znajdziesz kod wykoparki)
-- wykop donate (Opcjonalnie jeśli chcesz wspomóc twórców bota w opłatach za hosting)`,
+- wykop donate (Opcjonalnie jeśli chcesz wspomóc twórców bota w opłatach za hosting)
+- wykop status (Bot zwraca status połączenia z API Wykopu)`,
       timestamp: new Date(),
       color: 0xF44336,
       fields: [
