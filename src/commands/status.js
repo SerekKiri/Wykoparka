@@ -1,6 +1,6 @@
-const https = require('https')
+const http = require('http')
 
-const connect = https.get('http://a2.wykop.pl/appkey/aNd401dAPp', resp => {
+const connect = http.get('http://a2.wykop.pl/appkey/aNd401dAPp', resp => {
     return `${resp.statusCode}: ${resp.statusMessage}`
 })
 
