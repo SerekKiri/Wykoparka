@@ -16,8 +16,15 @@ const mirko = async (message) => {
       }
       for (let i = 0; i < number; i++) {
         post = posts[i]
-        if (post.plus18 === true && message.channel.nsfw === false) {
-          message.reply(`Kanał nie posiada możliwości wysyłania wiadomości nsfw! :confused:`)
+        if (post.embed !== undefined) {
+          if (post.embed.plus18 === true && message.channel.nsfw === false) {
+            message.reply(`Kanał nie posiada możliwości wysyłania wiadomości nsfw! :confused:`)
+          } else {
+            textType = 'Zaplusowane'
+            emojiType = 'plus'
+            const embed = postToEmbed(post, textType, emojiType)
+            message.channel.send({ embed })
+          }
         } else {
           textType = 'Zaplusowane'
           emojiType = 'plus'
