@@ -4,7 +4,7 @@
   "description": "Bot for wykop.pl",
   "main": "./src/index.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "circular-json": "^0.5.9",
     "debug": "^3.1.0",
     "discord.js": "^11.3.2",
